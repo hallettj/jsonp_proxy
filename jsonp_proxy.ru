@@ -1,5 +1,4 @@
 require 'rack/contrib/jsonp'
-require 'cgi'
 require 'uri'
 require 'net/http'
 require 'net/https'
